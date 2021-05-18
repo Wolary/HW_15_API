@@ -13,6 +13,7 @@
 
 # Properties files
 *.properties
+*.xml
 
 # Package Files #
 *.jar
